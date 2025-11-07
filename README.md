@@ -33,15 +33,16 @@ The American Dream gone wrong
 
 The human cost of the drug trade
 
-Code Example
-
-A simple JSON to represent Franklin’s rise:
-
+Code
 {
   "name": "Franklin Saint",
+	
   "occupation": "Drug Kingpin",
+	
   "location": "South Central LA",
+	
   "years_active": "1983-1986"
+	
 }
 
 💬 Favorite Quote
